@@ -1,4 +1,4 @@
-# Bacharelado em Sistemas de Informação - UFERSA
+# UFERSA - Bacharelado em Sistemas de Informação
 
 ## AEX0152 - Principios de Engenharia de Software
 
